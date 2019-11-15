@@ -1,0 +1,10 @@
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.csprojAssemblyReference.cache
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.Form1.resources
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.Properties.Resources.resources
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.csproj.GenerateResource.cache
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.csproj.CoreCompileInputs.cache
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\bin\Debug\FloorFlooring.exe.config
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\bin\Debug\FloorFlooring.exe
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\bin\Debug\FloorFlooring.pdb
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.exe
+C:\Users\kcroker010\source\repos\FloorFlooring\FloorFlooring\obj\Debug\FloorFlooring.pdb
